@@ -1,6 +1,7 @@
-# Pokemon Card Website 🌟
+# Pokemon Card Website 
 
 This project is a simple web application that displays Pokémon cards fetched from the Pokémon API.
+
 Hosted Link - https://kalyan0505.github.io/GeeksterDex/
 
 ## Features 🚀
@@ -9,9 +10,4 @@ Hosted Link - https://kalyan0505.github.io/GeeksterDex/
 - Allows users to search for Pokémon cards by name or ID.
 - Provides detailed information about each Pokémon
 
-## Technologies Used 💻
 
-- HTML
-- CSS
-- JavaScript
-- [Pokémon TCG API](https://pokeapi.co/api/v2/)
